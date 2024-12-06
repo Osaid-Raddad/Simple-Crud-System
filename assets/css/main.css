@@ -1,0 +1,8 @@
+textarea.form-control{
+    height: 89px;
+    resize: none;
+}
+
+.btn{
+    box-shadow: none !important;
+}
